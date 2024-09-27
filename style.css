@@ -318,6 +318,13 @@
   #projects{
     position: relative;
   }
+
+  .projectImage{
+    width: 480px;   
+    height: 270px; 
+    object-fit: cover;
+    padding: 20px;
+  }
   
   /* EXPERIENCE SECTION */
   
